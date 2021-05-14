@@ -1,4 +1,4 @@
-package TEME;
+package TEMA1;
 
 import java.util.Scanner;
 public class TEMA1{

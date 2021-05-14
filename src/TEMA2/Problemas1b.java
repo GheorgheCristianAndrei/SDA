@@ -1,7 +1,7 @@
 package TEMA2;
 
 import java.util.Scanner;
-import javax.swing.*;
+
 public class Problemas1b {
 
 

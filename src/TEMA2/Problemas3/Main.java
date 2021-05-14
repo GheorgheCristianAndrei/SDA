@@ -9,6 +9,6 @@ public class Main {
     System.out.println(customer.getCompleteName());
     System.out.println(customer.getAdress().showFullAdress());
     System.out.println(customer.getPaymentMethod().getType());
-    System.out.println(customer.getFirstname() + " Are " + customer.getAge()+" ani impliniti.");
+    System.out.println(customer.getFirstname() + " are " + customer.getAge()+" ani impliniti.");
 }
 }
